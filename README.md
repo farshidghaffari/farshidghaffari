@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Farshid Ghaffari 👋
 
-<!--
-**farshidghaffari/farshidghaffari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python Developer focused on building practical software solutions for automation, backend APIs, data processing, and workflow optimization.
 
-Here are some ideas to get you started:
+I enjoy turning repetitive manual tasks into clean, reliable Python tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+- Python automation scripts
+- Backend API development with FastAPI and Django
+- Data processing tools
+- Excel and CSV automation
+- Web scraping and workflow utilities
+- Practical problem solving with clean Python code
+
+## Current Focus
+
+I'm currently building a Python portfolio around:
+
+- Automation tools
+- API projects
+- Data processing scripts
+- Beginner-friendly Python practice codes
+- Real-world case study examples
+
+## Featured Links
+
+- Portfolio: https://farshidghaffari.net
+- Services: https://farshidghaffari.net/services/
+- Projects: https://farshidghaffari.net/projects/
+- Blog: https://farshidghaffari.net/blog/
+
+## Tech Stack
+
+Python · FastAPI · Django · Pandas · APIs · Automation · Git · Linux · Docker
