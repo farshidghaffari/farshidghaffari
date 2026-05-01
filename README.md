@@ -26,6 +26,7 @@ I'm currently building a Python portfolio around:
 ## Featured Links
 
 - Portfolio: https://farshidghaffari.net
+- Resume: https://farshidghaffari.net/resume/farshid-ghaffari-python-developer-resume.pdf
 - Services: https://farshidghaffari.net/services/
 - Projects: https://farshidghaffari.net/projects/
 - Blog: https://farshidghaffari.net/blog/
