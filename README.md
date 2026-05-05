@@ -62,4 +62,4 @@ A starter backend API project for building clean Python APIs with FastAPI and st
 
 ## Tech Stack
 
-Python · FastAPI · Django · Pandas · APIs · Automation · Git · Linux · Docker . OpenPyXL
+Python · FastAPI · Django · Pandas · OpenPyXL · APIs · Automation · Git · Linux · Docker
