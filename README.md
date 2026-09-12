@@ -1,65 +1,56 @@
-# Hi, I'm Farshid Ghaffari 👋
+# Farshid Ghaffari
 
-I'm a Python Developer focused on building practical software solutions for automation, backend APIs, data processing, and workflow optimization.
+### Business Automation & Integration Specialist
 
-I enjoy turning repetitive manual tasks into clean, reliable Python tools.
+I design and build practical automation, AI workflows, APIs, and connected business systems that solve real operational problems.
 
-## What I Do
+**Business Problem → Requirements → System Design → Integration → Implementation → Testing → End-to-End Delivery**
 
-- Python automation scripts
-- Backend API development with FastAPI and Django
-- Data processing tools
-- Excel and CSV automation
-- Web scraping and workflow utilities
-- Practical problem solving with clean Python code
+## What I Build
 
-## Current Focus
+* Business process automation
+* AI-assisted workflows with appropriate human review
+* API and multi-service integrations
+* Internal business tools and backend systems
+* Data processing and reporting automation
+* Reliable workflows with validation and failure handling
 
-I'm currently building a Python portfolio around:
+## Selected Work
 
-- Automation tools
-- API projects
-- Data processing scripts
-- Beginner-friendly Python practice codes
-- Real-world case study examples
-- Excel and CSV report automation
+### Industrial Operations Automation System
 
-## Featured Projects
+A real-world Laravel and MySQL internal system that connects operational records, sales, purchases, receivables, supplier debts, checks, expenses, financial activity, and reporting.
 
-### Excel / CSV Report Automation
+* [Read the case study](https://farshidghaffari.net/projects/industrial-operations-automation-laravel/)
+* [View the public documentation](https://github.com/farshidghaffari/industrial-operations-automation-case-study)
 
-A practical Python automation project for cleaning CSV/Excel data and generating business-ready Excel reports with monthly, category, and product summaries.
+### Excel / CSV Reporting Automation
 
-- Tech: Python, Pandas, OpenPyXL
-- Repo: https://github.com/farshidghaffari/excel-csv-report-automation
-- Related article: https://farshidghaffari.net/blog/automate-excel-csv-reports-python/
+A Python, Pandas, and OpenPyXL workflow that validates business data and produces structured multi-sheet reports.
 
-### Python Practice Lab
+* [View repository](https://github.com/farshidghaffari/excel-csv-report-automation)
 
-Beginner-friendly Python practice codes and mini projects focused on fundamentals, problem solving, and clean Python basics.
+### CSV Data Cleaner & Validator
 
-- Repo: https://github.com/farshidghaffari/python-practice-lab
+A reusable data-quality workflow for normalizing input files, identifying missing values, removing duplicates, validating required fields, and exporting clean datasets.
 
-### Python Automation Tools
+* [View repository](https://github.com/farshidghaffari/csv-data-cleaner-validator)
 
-Practical Python automation tools for file organization, CSV cleaning, and workflow utilities.
+## How I Work
 
-- Repo: https://github.com/farshidghaffari/python-automation-tools
+1. Understand the operational problem and constraints
+2. Define requirements and system boundaries
+3. Design the workflow, data model, and integrations
+4. Implement with validation and clear failure handling
+5. Test edge cases and business-critical paths
+6. Deliver a documented and maintainable system
 
-### FastAPI Starter API
+## Engineering Focus
 
-A starter backend API project for building clean Python APIs with FastAPI and structured endpoints.
+Python · FastAPI · Laravel/PHP · SQL · REST APIs · Pandas · Docker · Testing
 
-- Repo: https://github.com/farshidghaffari/fastapi-starter-api
+## Work With Me
 
-## Featured Links
-
-- Portfolio: https://farshidghaffari.net
-- Resume: https://farshidghaffari.net/resume/farshid-ghaffari-python-developer-resume.pdf
-- Services: https://farshidghaffari.net/services/
-- Projects: https://farshidghaffari.net/projects/
-- Blog: https://farshidghaffari.net/blog/
-
-## Tech Stack
-
-Python · FastAPI · Django · Pandas · OpenPyXL · APIs · Automation · Git · Linux · Docker
+* [Portfolio](https://farshidghaffari.net/)
+* [Case Studies](https://farshidghaffari.net/projects/)
+* [Discuss a Project](https://farshidghaffari.net/contact/)
