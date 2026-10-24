@@ -1,64 +1,34 @@
 # Farshid Ghaffari
 
-### AI-Leveraged Workflow & Business Systems Specialist
+### Plant engineer building websites, SEO workflows and practical AI tools
 
-I identify operational problems, understand the existing workflow, redesign inefficient processes, and build practical systems using automation, APIs, internal tools and AI-assisted implementation.
+I spent twelve years in medical and industrial gas production, progressing from junior production engineer to plant manager and co-owner. Today, based in Gyumri, Armenia, I build websites and digital tools for technical businesses and take on industrial engineering work.
 
-My focus is on reducing unnecessary manual work, making workflows easier to follow and designing for more consistent output. AI helps accelerate implementation; problem definition, system decisions, review and validation guide the work.
+My industrial experience covers cryogenic air separation, high-pressure compressors, plant maintenance and cylinder testing. I built and equipped a hydrostatic cylinder testing laboratory and led it through ISO/IEC 17025 accreditation with INSO 6792 in scope.
 
-## Selected Work
+## What I work on
 
-### 1. Industrial Operations Automation
+- Multilingual websites, technical SEO and local search for businesses in Armenia and abroad.
+- AI assistants that answer from document libraries with inspectable source citations.
+- Internal operations systems, reporting workflows and practical data automation.
+- Plant maintenance and laboratory systems, informed by hands-on operating experience.
 
-**Real operational case study · Delivered and used operationally**
+I define the problem, requirements and system design, use AI coding tools to accelerate implementation, and review and test the result. Odoo and TPM are my next development direction. Client SEO results will be shared when measured and approved for publication; I do not claim unverified ranking gains.
 
-An internal business system for Behrad Gas connecting operational information, invoice workflows and reporting. Delivered and used operationally, with ongoing supervision and iterative improvements.
+## Selected work
 
-I led problem discovery, requirements, workflow design, product decisions, iterative validation and delivery. Implementation was AI-assisted and developed under my direction, review and testing.
-
-[Explore the operational case study](https://github.com/farshidghaffari/industrial-operations-automation-case-study) — public documentation, conceptual diagrams and clearly labeled synthetic examples; private implementation and company data are excluded.
-
-### 2. PyxMint Translator
-
-**Working, field-tested MVP · Documentation-only case study**
-
-Designed and iterated a browser-based multilingual conversation workflow for face-to-face use, including explicit turn-taking, field testing under noisy conditions, and documented product trade-offs.
-
-[Explore the PyxMint case study](https://github.com/farshidghaffari/pyxmint-translator-case-study) — conversation workflow, conceptual diagrams, qualitative café observations and a proposed test matrix. Application source, real transcripts and private operational data are excluded. Field observations are qualitative, not benchmarks or evidence of equal performance across languages.
-
-### 3. Excel / CSV Reporting Automation
-
-**Runnable Python implementation · Tests and CI**
-
-A repeatable reporting workflow that validates CSV/Excel input, separates accepted and rejected records, and produces a six-sheet workbook. Documentation explains rejection rules, metric meanings and source-row limitations.
-
-[Explore the reporting implementation](https://github.com/farshidghaffari/excel-csv-report-automation) — runnable example, automated tests, CI and synthetic report evidence.
-
-### 4. CSV Data Cleaner & Validator
-
-**Focused Python implementation · Tests and CI**
-
-A supporting data-preparation workflow that normalizes headings and text, removes exact duplicates after normalization, checks required-column presence and reports remaining missing values.
-
-[Explore the cleaner implementation](https://github.com/farshidghaffari/csv-data-cleaner-validator) — runnable example, automated tests, CI and synthetic before/after evidence. Semantic email/date validation and an integration API are outside the current implementation.
-
-## How I Work
-
-Understand the problem → map the existing workflow → identify friction and manual work → design the system → implement/integrate → test and iterate → document and deliver.
-
-## Technical Evidence
-
-| Capability | Public evidence | Scope / limits |
+| Project | What you can inspect | Public scope |
 | --- | --- | --- |
-| Requirements, workflow design and operational delivery | [Industrial case study](https://github.com/farshidghaffari/industrial-operations-automation-case-study) | Delivered internal system; documentation and synthetic examples, not public application code or measured business outcomes. |
-| Product decisions and testing under real conditions | [PyxMint case study](https://github.com/farshidghaffari/pyxmint-translator-case-study) | Documentation-only account of a field-tested MVP; qualitative observations, with future tests clearly labeled. |
-| Data validation and reporting automation | [Reporting implementation](https://github.com/farshidghaffari/excel-csv-report-automation) | Runnable Python/Pandas/openpyxl workflow with tests and CI; local file processing, not a deployed reporting service. |
-| Data normalization and preprocessing | [Cleaner implementation](https://github.com/farshidghaffari/csv-data-cleaner-validator) | Supporting Python/Pandas implementation with tests and CI; required-column checks, not comprehensive semantic validation. |
+| [FactoryMind](https://github.com/farshidghaffari/factorymind-rag-case-study) | Multilingual RAG assistant over seven manuals and 666 pages, with source-page citations. [Live demo](https://demo.farshidghaffari.net/) | Public case study and deployed demo; production source and original PDFs are private. |
+| [Industrial operations system](https://github.com/farshidghaffari/industrial-operations-automation-case-study) | Requirements, workflows and system decisions for an internal operations and reporting system used at the plant. | Documentation and synthetic examples; private company data and application source are excluded. |
+| [PyxMint Translator](https://github.com/farshidghaffari/pyxmint-translator-case-study) | Face-to-face multilingual conversation workflow tested in cafés in Gyumri. | Documentation-only case study; observations are qualitative, not performance benchmarks. |
+| [Excel / CSV reporting automation](https://github.com/farshidghaffari/excel-csv-report-automation) | Input validation, rejected-record handling and a six-sheet report workbook. | Runnable Python example with tests, CI and synthetic data. |
+| [CSV data cleaner and validator](https://github.com/farshidghaffari/csv-data-cleaner-validator) | Heading normalization, duplicate removal and required-column checks. | Runnable Python example with tests and CI; not comprehensive semantic validation. |
 
-These repositories demonstrate different kinds of evidence. The implementation examples do not establish public FastAPI or API-service implementation evidence. Tests and CI cover the included scenarios; they are not comprehensive reliability guarantees.
+## How I work
 
-## Work With Me
+Diagnose the problem, map the workflow, build the smallest useful system, verify the result and document the handover.
 
-For portfolio examples and a discussion of an operational workflow or practical system:
+My public repositories distinguish working implementations from documentation-only case studies. The industrial background explains how I approach problems; the code and evidence show what each software project actually delivers.
 
-[Portfolio](https://farshidghaffari.net/) · [Case studies](https://farshidghaffari.net/projects/) · [Discuss a project](https://farshidghaffari.net/contact/)
+[Website](https://farshidghaffari.net/) · [Websites and SEO](https://farshidghaffari.net/websites-seo/) · [Work](https://farshidghaffari.net/projects/) · [Contact](https://farshidghaffari.net/contact/) · [LinkedIn](https://linkedin.com/in/farshid-ghaffari)
