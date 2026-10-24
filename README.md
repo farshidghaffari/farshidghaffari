@@ -19,6 +19,7 @@ I define the problem, requirements and system design, use AI coding tools to acc
 
 | Project | What you can inspect | Public scope |
 | --- | --- | --- |
+| [Multilingual SEO Check](https://github.com/farshidghaffari/multilingual-seo-check) | HTML hreflang, canonical and indexing checks with JSON, CSV and Markdown evidence reports. | Runnable Python CLI, 18 offline tests, CI configuration and a dated five-page live example. |
 | [FactoryMind](https://github.com/farshidghaffari/factorymind-rag-case-study) | Multilingual RAG assistant over seven manuals and 666 pages, with source-page citations. [Live demo](https://demo.farshidghaffari.net/) | Public case study and deployed demo; production source and original PDFs are private. |
 | [Industrial operations system](https://github.com/farshidghaffari/industrial-operations-automation-case-study) | Requirements, workflows and system decisions for an internal operations and reporting system used at the plant. | Documentation and synthetic examples; private company data and application source are excluded. |
 | [PyxMint Translator](https://github.com/farshidghaffari/pyxmint-translator-case-study) | Face-to-face multilingual conversation workflow tested in cafés in Gyumri. | Documentation-only case study; observations are qualitative, not performance benchmarks. |
